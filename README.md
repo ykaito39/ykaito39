@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Y.Kaito</h1>
+  
+学歴: 高等専門学校 卒  
+現在のステータス: 製造業事務職  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
